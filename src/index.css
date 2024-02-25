@@ -23,28 +23,20 @@
 button {
   width: 30%;
   cursor: pointer;
+  padding: 16px 24px;
+  border-radius: 12px;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .red-button {
   background-color: rgb(238, 49, 49);
-  padding: 16px 24px;
-  border-radius: 12px;
-  font-size: 24px;
-  font-weight: bold;
 }
 
 .green-button {
   background-color: greenyellow;
-  padding: 16px 24px;
-  border-radius: 12px;
-  font-size: 24px;
-  font-weight: bold;
 }
 
 .blue-button {
   background-color: rgb(42, 184, 232);
-  padding: 16px 24px;
-  border-radius: 12px;
-  font-size: 24px;
-  font-weight: bold;
 }
